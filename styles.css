@@ -1,0 +1,7 @@
+.bordered-div {
+    border: 2px solid #000; /* 2px solid black border */
+    padding: 50px; /* Optional: Add some padding to the content inside the div */
+  }
+  p{
+    text-align: center;
+  }
